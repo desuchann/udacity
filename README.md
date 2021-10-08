@@ -1,1 +1,1 @@
-a blank main from which branches are created that cover different sub-topics :p
+A repository to exhibit the skills I gained in the Udacity Intermediate Python Nanodegree
