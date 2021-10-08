@@ -2,7 +2,7 @@ Final project for the first part of the Udacity course - Near Earth Objects and 
 
 Overview
 --------
-Using thousands of lkines of Nasa data, create a database from which one can query for Near Earth Objects according to chosen filters.
+Using thousands of lines of Nasa data, create a database from which one can query for Near Earth Objects and their accompaying Close Approaches to Earth according to chosen filters.
 
 What's covered
 ------
