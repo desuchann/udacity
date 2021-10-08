@@ -25,4 +25,12 @@ main.py     - module through which it's possible to generate memes and have them
 app.py      - module through which it's possible to generate memes in your default browser  
 helpers.py  - some auxiliary functions to prevent repeated code  
 
-Ensure to check requirements.txt for packages that require importing before the code can be run.  
+Note to install pdftotext on Windows
+----------
+1. Download the Xpdf command line toools from https://www.xpdfreader.com/download.html
+2. Extract the files
+3. Put pdftotext wherever you'd like on your local machine
+4. Add the location of pdftotext into your PATH env variables (if it's not there already)
+5. Restart your IDE
+
+Ensure to check requirements.txt for all other packages that require importing before the code can be run!  
